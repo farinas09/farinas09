@@ -25,11 +25,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 <a href="https://github.com/farinas09">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farinas09&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farinas09&theme=light&hide_langs_below=1" />
 </a>
 
 <div align="center">
 
 </div>
 
-[![Erick's Github Stats](https://github-readme-stats.vercel.app/api?username=farinas09&count_private=true&theme=dark&show_icons=true)](https://github.com/farinas09)
+[![Erick's Github Stats](https://github-readme-stats.vercel.app/api?username=farinas09&count_private=true&theme=light&show_icons=true)](https://github.com/farinas09)
