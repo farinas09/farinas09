@@ -9,8 +9,8 @@
 [![LinkedIn: Erick Fariñas](https://img.shields.io/badge/ErickFariñas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/efarinas/)](https://www.linkedin.com/in/efarinas)
 [![Instagram farinas09](https://img.shields.io/badge/farinas09-red?style=flat-squeare&logo=Instagram&logoColor=white&link=www.instagram/farinas09/)](https://www.instagram.com/farinas09)
 
-- 🔭 I’m currently working at [Binarios](https://www.binarios.io).
-- 🌱 I’m currently learning more about Javascript and Flutter.
+- 🔭 I’m currently working at [Binarios](https://www.binarios.io) in Managua, Nic.
+- 🌱 I’m learning more about Javascript and Flutter.
 - 😄 Pronouns: He/His
 - ⚡ I like to play video games as well.
 
@@ -22,7 +22,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 <a href="https://github.com/farinas09">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farinas09&hide=css,scss&theme=vue-dark" />
