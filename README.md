@@ -9,7 +9,7 @@
 [![LinkedIn: Erick Fariñas](https://img.shields.io/badge/ErickFariñas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/efarinas/)](https://www.linkedin.com/in/efarinas)
 [![Instagram farinas09](https://img.shields.io/badge/farinas09-red?style=flat-squeare&logo=Instagram&logoColor=white&link=www.instagram/farinas09/)](https://www.instagram.com/farinas09)
 
-- 🔭 I’m currently working at [Binarios](https://www.binarios.io) in Managua, Nic.
+- 🔭 I’m currently working at [Wholemeaning](https://www.wholemeaning.com) in Managua, Nic.
 - 🌱 I’m learning more about Javascript and Flutter.
 - 😄 Pronouns: He/His
 - ⚡ I like to play video games as well.
