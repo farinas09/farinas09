@@ -1,31 +1,32 @@
-### Hi, I'm Erick 👋
+<h1 align="center">Hi 👋, I'm Erick</h1>
+<h3 align="center">A passionate full stack developer from Nicaragua</h3>
 
-<!--
-**farinas09/farinas09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-
-[![GitHub farinas09](https://img.shields.io/github/followers/farinas09?label=follow&style=social)](https://github.com/farinas09)
-[![LinkedIn: Erick Fariñas](https://img.shields.io/badge/ErickFariñas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/efarinas/)](https://www.linkedin.com/in/efarinas)
-[![Instagram farinas09](https://img.shields.io/badge/farinas09-red?style=flat-squeare&logo=Instagram&logoColor=white&link=www.instagram/farinas09/)](https://www.instagram.com/farinas09)
-
-- 🔭 I’m currently working at [Wird](https://www.wird.ai).
-- 🌱 I’m learning more about Javascript and Golang.
-- 😄 Pronouns: He/His
+- 🌱 I’m currently learning **Go, NestJs and Remix**
+- 👨‍💻 Check out my portfolio at [https://portfolio-erick-farinas.vercel.app/](https://portfolio-erick-farinas.vercel.app/)
+- 💬 Ask me about **React, Next and Java**
+- 📫 How to reach me **efarinas99@gmail.com**
 - ⚡ I like to play video games as well.
 
 <br/>
 
-**Languages, Tools & Stats:**  
+<h3 align="left">Languages and Tools:</h3>
 
 <div>
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
  </div>
+
+ <br/>
 
 <br/>
 
@@ -33,8 +34,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farinas09&hide=css,scss&theme=vue-dark" />
 </a>
 
-<div align="center">
-
-</div>
+<br/>
 
 [![Erick's Github Stats](https://github-readme-stats.vercel.app/api?username=farinas09&show_icons=true&theme=vue-dark&count_private=true)](https://github.com/farinas09)
